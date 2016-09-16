@@ -7,6 +7,7 @@ layout: null
     "slug":"{{post.title | slugify}}",
     "url":"{{site.url}}{{post.url}}",
     "title":"{{post.title}}",
+    "tags":"{{post.tags}}",
     "date":"{{post.date}}",
     "images":"{{post.images}}",
     "categories":[{% for categories in post.categories %}"{{categories}}"{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}],
