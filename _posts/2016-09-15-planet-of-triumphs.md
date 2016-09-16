@@ -1,19 +1,24 @@
 ---
 layout: post
-title: Testing images
+title: Planet of Triumphs
 
 images:
 
-  - url: /images/first-post.png
-    alt: Cypripedium Calceolum
-    title: Cypripedium Calceolum
+  - url: /images/portfolio620/ptrumps01.png
+    alt: 
+    title: 
 
   - url: /images/jekyll-logo.png
-    alt: Hello bumblebee !
-    title: Hello bumblebee !
+    alt: 
+    title: 
 ---
 
-Intro here yo ! <-- THIS IS THE EXCERPT
+A community celebrating and supporting all of the successes that members achieve at Planet Fitness.
+
+- Creative Direction
+- Information Architecture
+- Prototyping
+- User Experience
 
 Post body begin, and first image not in excerpt
 {% assign image = page.images[0] %} <-- first element of the array is zero
