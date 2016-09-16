@@ -1,0 +1,16 @@
+---
+layout: null
+---
+[
+  {% for post in site.posts %}
+  {
+    "slug":"{{post.title | slugify}}",
+    "url":"{{site.url}}{{post.url}}",
+    "title":"{{post.title}}",
+    "date":"{{post.date}}",
+    "images":"{{post.images}}",
+    "categories":[{% for categories in post.categories %}"{{categories}}"{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}],
+    "excerpt":"{{post.excerpt | strip_html}}"
+  }{% if forloop.rindex0 > 0 %},{% endif %}
+  {% endfor %}
+]
