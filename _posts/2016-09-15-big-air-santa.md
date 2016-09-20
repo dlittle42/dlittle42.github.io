@@ -16,9 +16,6 @@ images: [
 - Obj-C Development
 
 Post body begin, and first image not in excerpt
-{% assign image = page.images[0] %} <-- first element of the array is zero
-{% include image.html image=image %}
+![image-title-here](/images/portfolio620/santa02.png){:class="img-responsive"}
 
 Some more text blah !
-{% assign image = page.images[1] %}
-{% include image.html image=image %}

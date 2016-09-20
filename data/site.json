@@ -11,7 +11,8 @@ layout: null
     "date":"{{post.date}}",
     "images":[{% for images in post.images %}"{{images}}"{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}],
     "categories":[{% for categories in post.categories %}"{{categories}}"{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}],
-    "excerpt":"{{post.excerpt | strip_html}}"
+    "excerpt":"{{post.excerpt | strip_html}}",
+    "content":"{{post.content | uri_escape}}"
   }{% if forloop.rindex0 > 0 %},{% endif %}
   {% endfor %}
 ]
