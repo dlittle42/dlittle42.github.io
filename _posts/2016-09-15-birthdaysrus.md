@@ -1,19 +1,15 @@
 ---
 layout: post
 title: Birthdays &ldquo;R&rdquo; Us
-
-images:
-
-  - url: /images/portfolio620/tru.png
-    alt: 
-    title: 
-
-  - url: /images/portfolio620/tru02.png
-    alt: 
-    title: 
+tags: [site]
+categories: [new, classic]
+excerpt: An interactive playland for kids and informational website for parents promoting Geoffrey's Birthday Club at Toys &ldquo;R&rdquo; Us.
+images: [
+	tru.png, 
+	tru02.png
+]
 ---
 
-An interactive playland for kids and informational website for parents promoting Geoffrey's Birthday Club at Toys &ldquo;R&rdquo; Us.
 
 - Creative Direction
 - User Experience

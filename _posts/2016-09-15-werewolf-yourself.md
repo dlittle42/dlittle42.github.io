@@ -2,19 +2,14 @@
 layout: post
 title: Werewolf Yourself
 tags: [app]
+categories: [new, classic]
+excerpt: A Facebook application for ABC Family which allowed you to make your picture into a werewolf and send to your friends.
+images: [
+	werewolf.png, 
+	werewolf02.png
+]
 
-images:
-
-  - url: /images/portfolio620/werewolf.png
-    alt: 
-    title: 
-
-  - url: /images/portfolio620/werewolf02.png
-    alt: 
-    title: 
 ---
-
-A Facebook application for ABC Family which allowed you to make your picture into a werewolf and send to your friends.
 
 - Creative Direction
 - User Experience

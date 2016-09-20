@@ -1,19 +1,15 @@
 ---
 layout: post
 title: Disney Visa Holiday Favorites
+tags: [site]
+categories: [new, classic]
+excerpt: As a showcase of all of the rewards the Disney Visa Card has to offer, this site allowed you to search rewards and create a holiday wish list.
+images: [
+	dvisa-holiday.png, 
+	dvisa-holiday02.png
+]
 
-images:
-
-  - url: /images/portfolio620/dvisa-holiday.png
-    alt: 
-    title: 
-
-  - url: /images/portfolio620/dvisa-holiday02.png
-    alt: 
-    title: 
 ---
-
-As a showcase of all of the rewards the Disney Visa Card has to offer, this site allowed you to search rewards and create a holiday wish list.
 
 - Creative Direction
 - User Experience

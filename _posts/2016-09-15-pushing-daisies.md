@@ -1,19 +1,15 @@
 ---
 layout: post
 title: Pushing Daisies
+tags: [site]
+categories: [new, classic]
+excerpt: This site asks \"If you could bring back the dead for 60 seconds, who would it be and what would you ask?\".  Answers are collected from ads all over the internet and displayed here in a browsable garden.
+images: [
+	pushingdaisies.png, 
+	pushingdaisies02.png
+]
 
-images:
-
-  - url: /images/portfolio620/pushingdaisies.png
-    alt: 
-    title: 
-
-  - url: /images/portfolio620/pushingdaisies02.png
-    alt: 
-    title: 
 ---
-
-This site asks "If you could bring back the dead for 60 seconds, who would it be and what would you ask?".  Answers are collected from ads all over the internet and displayed here in a browsable garden.
 
 - Digital Strategy
 - Creative Direction

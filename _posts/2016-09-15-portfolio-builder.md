@@ -2,19 +2,14 @@
 layout: post
 title: Portfolio Builder
 tags: [app]
+categories: [new, classic]
+excerpt: A web application allowing anyone at True North Inc to find past projects in the portfolio database and easily assemble a showcase site for presentations.
+images: [
+	portfoliobuilder.png, 
+	portfoliobuilder02.gif
+]
 
-images:
-
-  - url: /images/portfolio620/portfoliobuilder.png
-    alt: 
-    title: 
-
-  - url: /images/portfolio620/portfoliobuilder02.gif
-    alt: 
-    title: 
 ---
-
-A web application allowing anyone at True North Inc to find past projects in the portfolio database and easily assemble a showcase site for presentations.
 
 - Creative Direction
 - User Experience

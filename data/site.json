@@ -9,7 +9,7 @@ layout: null
     "title":"{{post.title}}",
     "tags":"{{post.tags}}",
     "date":"{{post.date}}",
-    "images":"{{post.images}}",
+    "images":[{% for images in post.images %}"{{images}}"{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}],
     "categories":[{% for categories in post.categories %}"{{categories}}"{% if forloop.rindex0 > 0 %}, {% endif %}{% endfor %}],
     "excerpt":"{{post.excerpt | strip_html}}"
   }{% if forloop.rindex0 > 0 %},{% endif %}

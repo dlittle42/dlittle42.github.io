@@ -2,19 +2,14 @@
 layout: post
 title: Swarovski Rewards
 tags: [app]
-
-images:
-
-  - url: /images/portfolio620/swarovski.png
-    alt: 
-    title: 
-
-  - url: /images/portfolio620/swarovski02.gif
-    alt: 
-    title: 
+tags: [app]
+categories: [new, classic]
+excerpt: A loyalty rewards app for Swarovski helping customers track and earn points.
+images: [
+	swarovski.png, 
+	swarovski02.gif
+]
 ---
-
-A loyalty rewards app for Swarovski helping customers track and earn points.
 
 - Digital Strategy
 - Creative Direction

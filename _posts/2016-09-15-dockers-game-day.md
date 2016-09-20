@@ -2,19 +2,14 @@
 layout: post
 title: Dockers Game Day
 tags: [ad]
+categories: [new, classic]
+excerpt: Create or record your own Game Day Gram featuring your favorite team's talking pants.
+images: [
+	dockers.png, 
+	dockers02.png
+]
 
-images:
-
-  - url: /images/portfolio620/dockers.png
-    alt: 
-    title: 
-
-  - url: /images/portfolio620/dockers02.png
-    alt: 
-    title: 
 ---
-
-Create or record your own Game Day Gram featuring your favorite team's talking pants.
 
 - Creative Direction
 - Interaction Design

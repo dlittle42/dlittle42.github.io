@@ -1,19 +1,15 @@
 ---
 layout: post
 title: Truenorthinc.com
+tags: [app]
+categories: [new, classic]
+excerpt: A custom responsive Wordpress theme built for advertising agency True North Inc.
+images: [
+	truenorth.png, 
+	truenorth02.png
+]
 
-images:
-
-  - url: /images/portfolio620/truenorth.png
-    alt: 
-    title: 
-
-  - url: /images/portfolio620/truenorth02.png
-    alt: 
-    title: 
 ---
-
-A custom responsive Wordpress theme built for advertising agency True North Inc.
 
 - Information Architecture
 - User Experience

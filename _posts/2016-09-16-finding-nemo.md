@@ -2,19 +2,15 @@
 layout: post
 title: Finding Nemo
 tags: [ad]
+tags: [app]
+categories: [new, classic]
+excerpt: An early synchronized roadbloack ad on Yahoo.com for the DVD release of Finding Nemo.
+images: [
+	nemo.png, 
+	nemo02.png
+]
 
-images:
-
-  - url: /images/portfolio620/nemo.png
-    alt: 
-    title: 
-
-  - url: /images/portfolio620/nemo02.png
-    alt: 
-    title: 
 ---
-
-An early synchronized roadbloack ad on Yahoo.com for the DVD release of Finding Nemo.
 
 - Creative Direction
 - Interaction Design

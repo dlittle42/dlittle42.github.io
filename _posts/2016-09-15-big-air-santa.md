@@ -2,19 +2,14 @@
 layout: post
 title: Big Air Santa
 tags: [app]
+categories: [new, classic]
+excerpt: An iOS game using the Cocos2D game engine and gyroscope data to trigger snowboarding tricks.
 
-images:
-
-  - url: /images/portfolio620/santa.png
-    alt: 
-    title: 
-
-  - url: /images/portfolio620/santa02.png
-    alt: 
-    title: 
+images: [
+	santa.png, 
+	santa02.png
+]
 ---
-
-An iOS game using the Cocos2D game engine and gyroscope data to trigger snowboarding tricks.
 
 - Creative Direction
 - Interaction Design

@@ -1,19 +1,15 @@
 ---
 layout: post
 title: Planet of Triumphs
+tags: [site, app]
+categories: [new, classic]
+excerpt: A community celebrating and supporting all of the successes that members achieve at Planet Fitness.
+images: [
+	ptrumps01.png, 
+	ptrumps01.png
+]
 
-images:
-
-  - url: /images/portfolio620/ptrumps01.png
-    alt: 
-    title: 
-
-  - url: /images/jekyll-logo.png
-    alt: 
-    title: 
 ---
-
-A community celebrating and supporting all of the successes that members achieve at Planet Fitness.
 
 - Creative Direction
 - Information Architecture

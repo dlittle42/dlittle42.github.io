@@ -1,19 +1,16 @@
 ---
 layout: post
 title: Disney Visa Card Website
+tags: [site]
+categories: [new, classic]
+excerpt: A full responsive redesign built with Wordpress, featuring behavior-based content tailored to cardmember profiles.
+images: [
+	dvisa.png, 
+	dvisa02.png
+]
 
-images:
-
-  - url: /images/portfolio620/dvisa.png
-    alt: 
-    title: 
-
-  - url: /images/portfolio620/dvisa02.png
-    alt: 
-    title: 
 ---
-
-A full responsive redesign built with Wordpress, featuring behavior-based content tailored to cardmember profiles. 
+ 
 
 - User Experience
 - Information Architecture
