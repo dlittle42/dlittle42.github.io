@@ -21,7 +21,7 @@ media: http://supercomputingmachine.com/work/bigairsanta/
 Post body begin, and first image not in excerpt
 ![image-title-here](/images/portfolio620/santa02.png){:class="img-responsive"}
 
-{% assign image = page.images[0] %} <-- first element of the array is zero
+{% assign image = page.images[0] %} 
 {% include image.html image=image %}
 
 First Image Caption

@@ -17,7 +17,7 @@ media: http://supercomputingmachine.com/work/nemo/
 - Interaction Design
 - Flash Development
 
-{% assign image = page.images[0] %} <-- first element of the array is zero
+{% assign image = page.images[0] %}
 {% include image.html image=image %}
 
 First Image Caption

@@ -16,7 +16,7 @@ media: http://vimeo.com/89984424
 - Creative Direction
 - User Experience
 
-{% assign image = page.images[0] %} <-- first element of the array is zero
+{% assign image = page.images[0] %}
 {% include image.html image=image %}
 
 First Image Caption

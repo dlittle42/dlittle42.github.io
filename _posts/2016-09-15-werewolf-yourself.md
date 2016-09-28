@@ -18,7 +18,7 @@ media: http://supercomputingmachine.com/work/werewolf_yourself/
 - Flash Development
 - Facebook Integration
 
-{% assign image = page.images[0] %} <-- first element of the array is zero
+{% assign image = page.images[0] %}
 {% include image.html image=image %}
 
 First Image Caption

@@ -16,7 +16,7 @@ media: https://vimeo.com/89983922
 - User Experience
 - Front-end Development
 
-{% assign image = page.images[0] %} <-- first element of the array is zero
+{% assign image = page.images[0] %}
 {% include image.html image=image %}
 
 First Image Caption

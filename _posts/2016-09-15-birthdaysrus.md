@@ -23,7 +23,7 @@ media: http://www.birthdaysrus.com/kids/
 - Flash Development
 - Animation
 
-{% assign image = page.images[0] %} <-- first element of the array is zero
+{% assign image = page.images[0] %}
 {% include image.html image=image %}
 
 First Image Caption
